@@ -8,7 +8,7 @@
 
 > **Transforms vague health symptoms ("I'm tired") into actionable, evidence-based micro-habits—powered by a 6-agent system with medical rigor, cultural sensitivity, and Google Search grounding.**
 
-**Built by Mayur Kotian** | [GitHub](https://github.com/Mayurkotian/Nirava) | [Video Demo](#) | [Deployment Strategy](DEPLOYMENT.md)
+**Built by Mayur Kotian** | [GitHub](https://github.com/Mayurkotian/Nirava)  | [Deployment Strategy](DEPLOYMENT.md)
 
 ---
 
