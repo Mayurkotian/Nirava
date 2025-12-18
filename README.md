@@ -202,19 +202,19 @@ nirava/
 ├── services/                # Session & context management
 │   ├── session_service.py   # InMemorySessionService
 │   └── context_engine.py    # Context compaction
-├── tools/                   # Custom tools
+├── tools/                   
 │   └── health_metrics.py    # BMI, BMR, TDEE calculations
-├── models/                  # Data structures
+├── models/                  
 │   └── session.py           # ConversationState, UserProfile
-├── config/                  # Configuration
+├── config/                  
 │   ├── settings.py          # Centralized config
 │   └── llm.py               # Gemini API setup
 ├── tests/                   # Automated tests
 │   ├── test_runner.py       # End-to-end scenarios
 │   └── test_parsing.py      # Input parsing tests
-├── requirements.txt         # Dependencies
+├── requirements.txt         
 ├── DEPLOYMENT.md            # Cloud Run deployment strategy
-└── README.md                # This file
+└── README.md                
 ```
 
 ---
@@ -269,18 +269,6 @@ def _parse_int(value):
 
 ---
 
-## 🎥 Video Demo
-
-**[Watch 3-Minute Demo](#)** (Coming Soon)
-
-Covers:
-- Problem statement & why agents
-- Live terminal demo (mental fatigue journey)
-- Architecture walkthrough
-- Social impact (Agents for Good)
-
----
-
 ## ⚠️ Limitations & Safety
 
 **What Nirava Does NOT Do**:
@@ -328,8 +316,8 @@ As a data scientist, I've seen countless health apps that collect data but fail 
 
 **Connect**:
 - 📧 Email: mayurkotian@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/mayurkotian](#)
-- 🐙 GitHub: [github.com/Mayurkotian](#)
+- 💼 LinkedIn: [https://www.linkedin.com/in/mayurkotian](#)
+- 🐙 GitHub: [https://www.github.com/Mayurkotian](#)
 
 ---
 
